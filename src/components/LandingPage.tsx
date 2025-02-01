@@ -32,8 +32,7 @@ export const LandingPage: React.FC = () => {
             Experience the Future of Conversation
           </h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            Engage with our advanced AI assistant for meaningful conversations,
-            problem-solving, and creative collaboration.
+          Experience the power of Deepseek R1 — our most advanced model — designed for insightful conversations, innovative problem-solving, and seamless creative collaboration.
           </p>
           <Link
             to="/signup"
