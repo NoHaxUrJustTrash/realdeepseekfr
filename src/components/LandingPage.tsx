@@ -8,7 +8,7 @@ export const LandingPage: React.FC = () => {
       <nav className="container mx-auto px-6 py-4 flex justify-between items-center">
         <div className="flex items-center space-x-2">
           <MessageSquare className="text-blue-500" size={32} />
-          <span className="text-white text-xl font-bold">AI Chat</span>
+          <span className="text-white text-xl font-bold">Deepseek AI Chat</span>
         </div>
         <div className="space-x-4">
           <Link
